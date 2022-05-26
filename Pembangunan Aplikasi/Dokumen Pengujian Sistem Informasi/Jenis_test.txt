@@ -1,0 +1,13 @@
+Jenis test : 
+
+. Performance Testing;
+b. System Testing;
+c. Unit Testing;
+d. Integration Testing;
+e. Usability Testing;
+f. Smoke Testing;
+g. Stress Testing;
+h. User Acceptence Test; dan
+i. Pengujian terkait aspek keamanan dari sistem informasi (aplikasi) 
+yang ada, misalnya vulnerability scanning/assesment, penetration 
+testing, risk assessment, security audit/review, dsb.
